@@ -1,12 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=99CCFF&height=100&section=header&text=SeongBinBin&fontColor=ffffff&fontSize=50&animation=twinkling&fontAlignY=55)
 
 <div align="center">
-  
-  #### Welcome NGSB's GitHub!
+
+🇰🇷
+
+#### Welcome NGSB's GitHub! 😄
 
   <br/>
   
-  ### Tech Stack
+  ### ✏️ Tech Stack 💻
   
   <div>
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
